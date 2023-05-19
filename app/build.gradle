@@ -94,7 +94,7 @@ dependencies {
     implementation("com.airbnb.android:lottie-compose:5.2.0")
 
     // NetworkResponseAdapter
-    //implementation "com.github.haroldadmin:NetworkResponseAdapter:5.0.0"
+    implementation "com.github.haroldadmin:NetworkResponseAdapter:5.0.0"
 
     // Material Icons
     implementation "androidx.compose.material:material-icons-extended:1.4.3"
