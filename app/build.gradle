@@ -101,6 +101,9 @@ dependencies {
 
     // Splash Screen
     implementation "androidx.core:core-splashscreen:1.0.1"
+
+    //System Ui Controller
+    implementation "com.google.accompanist:accompanist-systemuicontroller:0.30.0"
 }
 // Allow references to generated code
 kapt {
