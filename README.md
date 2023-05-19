@@ -3,21 +3,21 @@ A dictionary application to allow you find definition of words and enhance your 
 
 the technologies used in this project consist of:
 
-kotlin,
+1.kotlin
 
-Jetpack compose ,
+2.Jetpack compose 
 
-Hilt,
+3.Hilt
 
-Flow ,
+4.Flow 
 
-coroutines,
+5.coroutines
 
-Retrofit,
+6.Retrofit
 
-RoomDb,
+7.RoomDb
 
-MVVM
+8.MVVM
 
 
 ## Demo
