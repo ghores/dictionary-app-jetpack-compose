@@ -2,6 +2,7 @@
 A dictionary application to allow you find definition of words and enhance your vocabulary
 
 the technologies used in this project consist of:
+
 kotlin,
 
 Jetpack compose ,
